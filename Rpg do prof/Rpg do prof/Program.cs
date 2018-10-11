@@ -16,10 +16,8 @@ namespace Rpg_do_prof
                 string nome = Pergunta.RetornoTexto("Qual o seu nome?");
                 string raca = Pergunta.RetornoTexto("Qual a sua raça?");
                 Heroi h = new Heroi(30, nome, raca);
-                Inimigo s = new Inimigo(50, 10, "Slin");
+                Inimigo s = new Inimigo(50, 10, "Slime");
 
-
-                //sx
                 while (true)
                 {
                     Console.Clear();
