@@ -1,0 +1,14 @@
+c:\users\administrador\documents\visual studio 2010\Projects\RpgBacaninha\RpgBacaninha\bin\Debug\RpgBacaninha.exe
+c:\users\administrador\documents\visual studio 2010\Projects\RpgBacaninha\RpgBacaninha\bin\Debug\RpgBacaninha.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\RpgBacaninha\RpgBacaninha\obj\x86\Debug\RpgBacaninha.exe
+c:\users\administrador\documents\visual studio 2010\Projects\RpgBacaninha\RpgBacaninha\obj\x86\Debug\RpgBacaninha.pdb
+E:\RpgBacaninha\RpgBacaninha\bin\Debug\RpgBacaninha.exe
+E:\RpgBacaninha\RpgBacaninha\bin\Debug\RpgBacaninha.pdb
+E:\RpgBacaninha\RpgBacaninha\obj\x86\Debug\RpgBacaninha.csproj.CoreCompileInputs.cache
+E:\RpgBacaninha\RpgBacaninha\obj\x86\Debug\RpgBacaninha.exe
+E:\RpgBacaninha\RpgBacaninha\obj\x86\Debug\RpgBacaninha.pdb
+E:\RpgBacaninha\RpgBacaninha\obj\x86\Debug\RpgBacaninha.csprojResolveAssemblyReference.cache
+E:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Console App\RPG\RpgBacaninha\RpgBacaninha\bin\Debug\RpgBacaninha.exe
+E:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Console App\RPG\RpgBacaninha\RpgBacaninha\bin\Debug\RpgBacaninha.pdb
+E:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Console App\RPG\RpgBacaninha\RpgBacaninha\obj\x86\Debug\RpgBacaninha.exe
+E:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Console App\RPG\RpgBacaninha\RpgBacaninha\obj\x86\Debug\RpgBacaninha.pdb

@@ -1,0 +1,6 @@
+F:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Console App\01-10-Lista Exercicios\Matematics\Matematics\bin\Debug\Matematics.exe.config
+F:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Console App\01-10-Lista Exercicios\Matematics\Matematics\obj\Debug\Matematics.csprojResolveAssemblyReference.cache
+F:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Console App\01-10-Lista Exercicios\Matematics\Matematics\bin\Debug\Matematics.exe
+F:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Console App\01-10-Lista Exercicios\Matematics\Matematics\bin\Debug\Matematics.pdb
+F:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Console App\01-10-Lista Exercicios\Matematics\Matematics\obj\Debug\Matematics.exe
+F:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Console App\01-10-Lista Exercicios\Matematics\Matematics\obj\Debug\Matematics.pdb

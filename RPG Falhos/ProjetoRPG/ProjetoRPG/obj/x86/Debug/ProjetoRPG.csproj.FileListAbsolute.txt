@@ -1,0 +1,7 @@
+c:\users\administrador\documents\visual studio 2010\Projects\ProjetoRPG\ProjetoRPG\bin\Debug\ProjetoRPG.exe
+c:\users\administrador\documents\visual studio 2010\Projects\ProjetoRPG\ProjetoRPG\bin\Debug\ProjetoRPG.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\ProjetoRPG\ProjetoRPG\obj\x86\Debug\ProjetoRPG.exe
+c:\users\administrador\documents\visual studio 2010\Projects\ProjetoRPG\ProjetoRPG\obj\x86\Debug\ProjetoRPG.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\ProjetoRPG\ProjetoRPG\obj\x86\Debug\ProjetoRPG.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\ProjetoRPG\ProjetoRPG\obj\x86\Debug\ProjetoRPG.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\ProjetoRPG\ProjetoRPG\obj\x86\Debug\ProjetoRPG.csproj.GenerateResource.Cache

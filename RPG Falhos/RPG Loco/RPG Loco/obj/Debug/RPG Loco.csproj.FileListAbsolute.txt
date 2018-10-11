@@ -1,0 +1,9 @@
+c:\users\2323056\documents\visual studio 2015\Projects\RPG Loco\RPG Loco\bin\Debug\RPG Loco.exe.config
+c:\users\2323056\documents\visual studio 2015\Projects\RPG Loco\RPG Loco\bin\Debug\RPG Loco.exe
+c:\users\2323056\documents\visual studio 2015\Projects\RPG Loco\RPG Loco\bin\Debug\RPG Loco.pdb
+c:\users\2323056\documents\visual studio 2015\Projects\RPG Loco\RPG Loco\obj\Debug\RPG Loco.exe
+c:\users\2323056\documents\visual studio 2015\Projects\RPG Loco\RPG Loco\obj\Debug\RPG Loco.pdb
+c:\users\2323056\documents\visual studio 2015\Projects\RPG Loco\RPG Loco\obj\Debug\RPG Loco.csprojResolveAssemblyReference.cache
+E:\Estudos\Visual Studio\RPG Loco\RPG Loco\bin\Debug\RPG Loco.exe.config
+E:\Estudos\Visual Studio\RPG Loco\RPG Loco\obj\Debug\RPG Loco.exe
+E:\Estudos\Visual Studio\RPG Loco\RPG Loco\obj\Debug\RPG Loco.pdb

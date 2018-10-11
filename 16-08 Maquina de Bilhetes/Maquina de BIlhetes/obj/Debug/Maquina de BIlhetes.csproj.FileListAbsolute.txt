@@ -1,0 +1,12 @@
+c:\users\2323056\documents\visual studio 2015\Projects\Maquina de BIlhetes\Maquina de BIlhetes\bin\Debug\Maquina de BIlhetes.exe.config
+c:\users\2323056\documents\visual studio 2015\Projects\Maquina de BIlhetes\Maquina de BIlhetes\bin\Debug\Maquina de BIlhetes.exe
+c:\users\2323056\documents\visual studio 2015\Projects\Maquina de BIlhetes\Maquina de BIlhetes\bin\Debug\Maquina de BIlhetes.pdb
+c:\users\2323056\documents\visual studio 2015\Projects\Maquina de BIlhetes\Maquina de BIlhetes\obj\Debug\Maquina de BIlhetes.csprojResolveAssemblyReference.cache
+c:\users\2323056\documents\visual studio 2015\Projects\Maquina de BIlhetes\Maquina de BIlhetes\obj\Debug\Maquina de BIlhetes.exe
+c:\users\2323056\documents\visual studio 2015\Projects\Maquina de BIlhetes\Maquina de BIlhetes\obj\Debug\Maquina de BIlhetes.pdb
+F:\Estudos\Visual Studio\Console App\16-08 Maquina de Bilhetes\Maquina de BIlhetes\bin\Debug\Maquina de BIlhetes.exe.config
+F:\Estudos\Visual Studio\Console App\16-08 Maquina de Bilhetes\Maquina de BIlhetes\obj\Debug\Maquina de BIlhetes.exe
+F:\Estudos\Visual Studio\Console App\16-08 Maquina de Bilhetes\Maquina de BIlhetes\obj\Debug\Maquina de BIlhetes.pdb
+F:\Estudos\Visual Studio\Console App\16-08 Maquina de Bilhetes\Maquina de BIlhetes\bin\Debug\Maquina de BIlhetes.exe
+F:\Estudos\Visual Studio\Console App\16-08 Maquina de Bilhetes\Maquina de BIlhetes\bin\Debug\Maquina de BIlhetes.pdb
+F:\Estudos\Visual Studio\Console App\16-08 Maquina de Bilhetes\Maquina de BIlhetes\obj\Debug\Maquina de BIlhetes.csprojResolveAssemblyReference.cache
