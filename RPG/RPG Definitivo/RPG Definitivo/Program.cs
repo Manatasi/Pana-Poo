@@ -20,14 +20,17 @@ namespace RPG_Definitivo
                 Random r = new Random();
                 int i = r.Next(0, TodosOsObjetos.inimigo.Count());
                 Inimigo s = TodosOsObjetos.inimigo[i];
+                
 
                 while (true)
                 {
                     Console.Clear();
 
                     int escolha = -1;
+                    Console.WriteLine("Você encontrou um inimigo!\n");
                     do
                     {
+                       
                         s.getInfo();
                         h.getInfo();
                         Console.WriteLine(Menu.Luta());

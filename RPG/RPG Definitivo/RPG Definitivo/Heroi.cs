@@ -25,7 +25,7 @@ namespace RPG_Definitivo
 
         public string atacar(Inimigo alvo)
         {
-            if (alvo.vida <= 0)
+            if (alvo.vidaAtual <= 0)
             {
                 return alvo.nome + " já está morto.";
             }
@@ -34,18 +34,18 @@ namespace RPG_Definitivo
             Random r = new Random();
 
             int danoCausado = r.Next(armaPrincipal.getDanoMin(), armaPrincipal.getDanoMax() + 1);
-            alvo.vida -= danoCausado;
+            alvo.vidaAtual -= danoCausado;
 
             mensagem = alvo.nome + " recebeu " + danoCausado + " de dano da arma " + armaPrincipal.ToString() + ".\n";
 
-            if (alvo.vida <= 0)
+            if (alvo.vidaAtual <= 0)
             {
                 mensagem += alvo.nome + " morreu.\n";
                 mensagem += setExperiencia(alvo.getExpAoMatar());
             }
             else
             {
-                mensagem += "Ficando com " + alvo.vida + " de vida restante.";
+                mensagem += "Ficando com " + alvo.vidaAtual + " de vida restante.";
             }
 
             return mensagem;
@@ -55,7 +55,7 @@ namespace RPG_Definitivo
         {
             Console.ForegroundColor = ConsoleColor.Green;
             Console.Write("Nome: {0} | ", nome);
-            Console.Write("Vida: {0} | ", vida);
+            Console.Write("Vida: {0} | ", vidaAtual);
             Console.Write("Nível: {0} ", level);
             Console.WriteLine("Expiencia: {0}/{1} ", expAtual, expParaEvoluir);
             Console.ResetColor();
