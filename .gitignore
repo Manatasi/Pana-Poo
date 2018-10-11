@@ -6,3 +6,7 @@
 *.ide-shm
 *.ide-wal
 *.ide
+bin/
+obj/
+Debug/
+Release/
