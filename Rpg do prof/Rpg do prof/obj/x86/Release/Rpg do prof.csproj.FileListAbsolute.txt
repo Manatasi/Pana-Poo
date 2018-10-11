@@ -8,3 +8,5 @@ E:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Console App\
 E:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Console App\Rpg do prof definitivo\Rpg do prof\bin\Release\Rpg do prof.pdb
 E:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Console App\Rpg do prof definitivo\Rpg do prof\obj\x86\Release\Rpg do prof.csprojResolveAssemblyReference.cache
 E:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Console App\Rpg do prof definitivo\Rpg do prof\obj\x86\Release\Rpg do prof.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\GitHub\Pana-Poo\Rpg do prof\Rpg do prof\obj\x86\Release\Rpg do prof.exe
+C:\Users\Administrador\Documents\GitHub\Pana-Poo\Rpg do prof\Rpg do prof\obj\x86\Release\Rpg do prof.pdb
