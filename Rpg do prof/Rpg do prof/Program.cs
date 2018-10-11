@@ -18,10 +18,12 @@ namespace Rpg_do_prof
                 Heroi h = new Heroi(30, nome, raca);
                 Inimigo s = new Inimigo(50, 10, "Slimne");
 
+
+                //sx
                 while (true)
                 {
                     Console.Clear();
-                    
+
                     int escolha = -1;
                     do
                     {
