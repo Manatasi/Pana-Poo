@@ -12,7 +12,6 @@ namespace Rpg_do_prof
         double expParaEvoluir = 100;
         double expAtual = 0;
         string raca;
- string raca2;
 
         public Heroi(int vida, string nome, string raca)
             : base(vida, nome)
