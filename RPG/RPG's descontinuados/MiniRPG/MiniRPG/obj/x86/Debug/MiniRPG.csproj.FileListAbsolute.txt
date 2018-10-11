@@ -1,4 +1,0 @@
-C:\Users\Administrador\Documents\Visual Studio 2010\Projects\MiniRPG\MiniRPG\bin\Debug\MiniRPG.exe
-C:\Users\Administrador\Documents\Visual Studio 2010\Projects\MiniRPG\MiniRPG\bin\Debug\MiniRPG.pdb
-C:\Users\Administrador\Documents\Visual Studio 2010\Projects\MiniRPG\MiniRPG\obj\x86\Debug\MiniRPG.exe
-C:\Users\Administrador\Documents\Visual Studio 2010\Projects\MiniRPG\MiniRPG\obj\x86\Debug\MiniRPG.pdb

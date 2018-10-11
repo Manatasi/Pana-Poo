@@ -1,9 +1,0 @@
-E:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Console App\RPG\RpgBacaninha\RpgBacaninha\bin\Release\RpgBacaninha.exe
-E:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Console App\RPG\RpgBacaninha\RpgBacaninha\bin\Release\RpgBacaninha.pdb
-E:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Console App\RPG\RpgBacaninha\RpgBacaninha\obj\x86\Release\RpgBacaninha.exe
-E:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Console App\RPG\RpgBacaninha\RpgBacaninha\obj\x86\Release\RpgBacaninha.pdb
-F:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Console App\RPG\RpgBacaninha\RpgBacaninha\obj\x86\Release\RpgBacaninha.exe
-F:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Console App\RPG\RpgBacaninha\RpgBacaninha\obj\x86\Release\RpgBacaninha.pdb
-F:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Console App\RPG\RpgBacaninha\RpgBacaninha\bin\Release\RpgBacaninha.exe
-F:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Console App\RPG\RpgBacaninha\RpgBacaninha\bin\Release\RpgBacaninha.pdb
-F:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Console App\RPG\RpgBacaninha\RpgBacaninha\obj\x86\Release\RpgBacaninha.csprojResolveAssemblyReference.cache

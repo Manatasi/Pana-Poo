@@ -1,6 +1,0 @@
-F:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Prova\Aviao\Aviao\bin\Debug\Aviao.exe.config
-F:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Prova\Aviao\Aviao\bin\Debug\Aviao.exe
-F:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Prova\Aviao\Aviao\bin\Debug\Aviao.pdb
-F:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Prova\Aviao\Aviao\obj\Debug\Aviao.csprojResolveAssemblyReference.cache
-F:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Prova\Aviao\Aviao\obj\Debug\Aviao.exe
-F:\Estudos\Jogos Digitais - FMU\2º Semestre\Programação - Quinta\Prova\Aviao\Aviao\obj\Debug\Aviao.pdb
