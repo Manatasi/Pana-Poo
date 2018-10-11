@@ -14,7 +14,7 @@ namespace RPG_Definitivo
             while (true)
             {
                 string nome = Pergunta.RetornoTexto("Qual o seu nome?");
-                string raca = Pergunta.RetornoTexto("Qual a sua raa?");
+                string raca = Pergunta.RetornoTexto("Qual a sua raça?");
                 Heroi h = new Heroi(30, nome, raca);
 
                 Random r = new Random();
