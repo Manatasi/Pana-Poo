@@ -1,0 +1,7 @@
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\Rpg do prof\Rpg do prof\bin\Release\Rpg do prof.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\Rpg do prof\Rpg do prof\bin\Release\Rpg do prof.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\Rpg do prof\Rpg do prof\obj\x86\Release\Rpg do prof.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\Rpg do prof\Rpg do prof\obj\x86\Release\Rpg do prof.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\Rpg do prof\Rpg do prof\obj\x86\Release\Rpg do prof.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\C#\Rpg do prof\Rpg do prof\obj\x86\Release\Rpg do prof.exe
+C:\Users\Administrador\Desktop\C#\Rpg do prof\Rpg do prof\obj\x86\Release\Rpg do prof.pdb
