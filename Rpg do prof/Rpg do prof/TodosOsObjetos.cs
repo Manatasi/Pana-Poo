@@ -30,7 +30,6 @@ namespace Rpg_do_prof
             //Itens do começo do jogo.
             armasIniciais.Add(new Item(1, 3, "Espada Ordinaria de Madeira"));
             armasIniciais.Add(new Item(2, 4, "Espada de Cobre enferrujada"));
-            armasIniciais.Add(new Item(5,0,0,"Elixir de vida superior", "Um elixir de vida que pode curar qualquer doenças"));
 
             #endregion Itens Iniciais
         }

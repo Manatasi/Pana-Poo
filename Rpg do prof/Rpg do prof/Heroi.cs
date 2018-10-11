@@ -36,12 +36,12 @@ namespace Rpg_do_prof
             int danoCausado = r.Next(armaPrincipal.getDanoMin(), armaPrincipal.getDanoMax() + 1);
             alvo.vida -= danoCausado;
 
-            mensagem = alvo.nome + " recebeu " + danoCausado + " de dano, da arma " + armaPrincipal.ToString() + ".\n";
+            mensagem = alvo.nome + " recebeu " + danoCausado + " de dano da arma " + armaPrincipal.ToString() + ".\n";
 
             if (alvo.vida <= 0)
             {
-                mensagem += alvo.nome + " morreu.";
-                setExperiencia(alvo.getExpAoMatar());
+                mensagem += alvo.nome + " morreu.\n";
+                mensagem += setExperiencia(alvo.getExpAoMatar());
             }
             else
             {
@@ -71,7 +71,7 @@ namespace Rpg_do_prof
                 level += 1;
                 expAtual = 0;
                 expParaEvoluir += 100;
-                return nome + " evoluiu de nível! " + " Do nível " + levelAntigo + " para o nível " + level;
+                return nome + " evoluiu de nível! " + "Do nível " + levelAntigo + " para o nível " + level + ".";
             }
             return nome + " recebeu " + exp + " de experiencia.";
         }

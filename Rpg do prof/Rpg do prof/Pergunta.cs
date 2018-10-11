@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Rpg_do_prof
 {
-    public static class Pergunta
+    static class Pergunta
     {
         static ConsoleColor cor = ConsoleColor.DarkYellow;
         public static string RetornoTexto(string texto)

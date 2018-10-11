@@ -62,6 +62,7 @@
     <Compile Include="Heroi.cs" />
     <Compile Include="Inimigo.cs" />
     <Compile Include="Item.cs" />
+    <Compile Include="Menu.cs" />
     <Compile Include="Pergunta.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
