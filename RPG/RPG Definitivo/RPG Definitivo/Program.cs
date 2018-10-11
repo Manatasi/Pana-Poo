@@ -16,7 +16,10 @@ namespace RPG_Definitivo
                 string nome = Pergunta.RetornoTexto("Qual o seu nome?");
                 string raca = Pergunta.RetornoTexto("Qual a sua raça?");
                 Heroi h = new Heroi(30, nome, raca);
-                Inimigo s = new Inimigo(50, 10, "Slime");
+
+                Random r = new Random();
+                int i = r.Next(0, TodosOsObjetos.inimigo.Count());
+                Inimigo s = TodosOsObjetos.inimigo[i];
 
                 while (true)
                 {
@@ -49,8 +52,6 @@ namespace RPG_Definitivo
 
                     Console.ReadLine();
                 }
-                Random r = new Random();
-                Console.ReadLine();
             }
         }
     }

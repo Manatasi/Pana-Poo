@@ -9,7 +9,7 @@ namespace RPG_Definitivo
     {
         public static List<Item> item = new List<Item>();
         public static List<Item> armasIniciais = new List<Item>();
-        public static List<SerVivo> inimigo = new List<SerVivo>();
+        public static List<Inimigo> inimigo = new List<Inimigo>();
 
         static TodosOsObjetos()
         {
@@ -17,8 +17,8 @@ namespace RPG_Definitivo
 
             #region Inimigos
             //Inimigos
-            inimigo.Add(new SerVivo(10, "Slime azul"));
-            inimigo.Add(new SerVivo(10, "Slime roxo"));
+            inimigo.Add(new Inimigo(100,20, "Slime azul", 2));
+            inimigo.Add(new Inimigo(50,10, "Slime roxo"));
             #endregion Inimigos
 
             #region Todos os Itens
