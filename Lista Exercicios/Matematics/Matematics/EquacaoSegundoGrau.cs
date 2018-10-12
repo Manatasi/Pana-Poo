@@ -24,12 +24,12 @@ namespace Matematics
 
         public double calcularX1()
         {
-            return (-b + Math.Sqrt(calcularDelta())) / 2;
+            return (-b + Math.Sqrt(calcularDelta())) / (2*a);
         }
 
         public double calcualrX2()
         {
-            return (-b - Math.Sqrt(calcularDelta())) / 2;
+            return (-b - Math.Sqrt(calcularDelta())) / (2*a);
         }
 
         override
